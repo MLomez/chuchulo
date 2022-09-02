@@ -1,2 +1,2 @@
-let d2 = "Jesica";
+let d2 = "Pancracias";
 console.log(d2);
